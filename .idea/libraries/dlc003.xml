@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dlc003">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dlc/dlc003_rocket_launcher_unit_pack/dlc003.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

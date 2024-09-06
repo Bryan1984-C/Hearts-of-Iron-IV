@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dlc002">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dlc/dlc002_polish_content_pack/dlc002.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

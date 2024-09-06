@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dlc012">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dlc/dlc012_allied_radio_music_pack/dlc012.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

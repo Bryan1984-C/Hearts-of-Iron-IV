@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dlc020">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dlc/dlc020_death_or_dishonor/dlc020.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
